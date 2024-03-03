@@ -40,7 +40,7 @@ This Sheet contains the unique phone numbers in all formats and id’s.
 - ID: An id for the Website in the format CB_Web_# 
 - Phone: the url text for the website of the post. 
 
-7. `ChemBook_final_manufacturer.csv` 
+7. `ChemBook_final_Manufacturers.csv` 
 This Sheet contains 25 companies that are identified as manufacturers. The sheet contains data related to the products sold and the date the company has been verified if it is.
 - Company_Name: The name of the manufacturer
 - CAS: A list of the CAS numbers for the products sold by these companies
