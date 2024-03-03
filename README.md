@@ -19,7 +19,7 @@ Saving to CSV
 Once you’ve collected and combined the data, you can save it to a CSV file. The provided code snippet shows how to specify the output path and export the DataFrame to a CSV format. 
  
 ## Dataset 
-1.	    ChemBook_final.csv 
+1. ChemBook_final.csv 
 This spreadsheet contains detailed information on various chemical products. Below is a breakdown of the columns and what type of information they contain: 
 •	ID: A unique identifier for each entry. 
 •	Name: The name of the chemical product or the source where the chemical data is listed. 
@@ -34,23 +34,23 @@ This spreadsheet contains detailed information on various chemical products. Bel
 •	Source_URL: The url link to the page that the information was scraped from. 
  
  
-2.	    ChemBook_final_names: 
+2. ChemBook_final_names: 
 This Sheet contains the unique names and id’s of the company names. 
 •	ID: An id for the company name in the format CB_Company_# 
 •	Company Name: The names of the companies. 
  
  
-3.	    ChemBook_final_CAS: 
+3. ChemBook_final_CAS: 
 This Sheet contains all the unique CAS numbers and id’s.  
 •	ID: An id for the company name in the format CB_CAS_# 
 •	CAS: The CAS numbers of the chemicals 
  
-4.	    ChemBook_final_emails: 
+4. ChemBook_final_emails: 
 This Sheet contains all the unique emails and id’s  
 •	ID: An id for the company name in the format CB_Email_# 
 •	Email: The Email ID 
  
-5.	    ChemBook_final_names: 
+5. ChemBook_final_names: 
 This Sheet contains the unique phone numbers in all formats and id’s. 
 •	ID: An id for the company name in the format CB_Company_# 
 •	Phone: The phone numbers of the companies, some records might have more than one number. 
