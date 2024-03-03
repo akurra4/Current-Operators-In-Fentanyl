@@ -30,7 +30,13 @@ This Sheet contains all the unique emails and id’s
 •	ID: An id for the company name in the format CB_Email_# 
 •	Email: The Email ID 
  
-5. `ChemBook_final_names.csv` 
+5. `ChemBook_final_phone.csv` 
 This Sheet contains the unique phone numbers in all formats and id’s. 
-•	ID: An id for the company name in the format CB_Company_# 
-•	Phone: The phone numbers of the companies, some records might have more than one number. 
+•	ID: An id for the Phone number in the format CB_Phone_# 
+•	Phone: The phone numbers of the companies, some records might have more than one number.
+
+5. `ChemBook_final_web.csv` 
+This Sheet contains the unique phone numbers in all formats and id’s. 
+•	ID: An id for the Website in the format CB_Web_# 
+•	Phone: the url text for the website of the post. 
+
